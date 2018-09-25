@@ -1,0 +1,31 @@
+_repo: Rooman-mieha-Maailmankuva-elamakertoina_57051
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Pelkonen, Lauri
+    alias: P., Lauri
+    gutenberg_agent_id: '45049'
+    url: http://www.gutenberg.org/2009/agents/45049
+  - agent_name: Pakarinen, Weikko
+    gutenberg_agent_id: '49168'
+    url: http://www.gutenberg.org/2009/agents/49168
+creator:
+  author:
+    agent_name: Birt, Theodor
+    gutenberg_agent_id: '49167'
+    url: http://www.gutenberg.org/2009/agents/49167
+description: ''
+gutenberg_issued: '2018-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57051'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Rooman miehä
+
+  Maailmankuva elämäkertoina'
+url: http://www.gutenberg.org/ebooks/57051
