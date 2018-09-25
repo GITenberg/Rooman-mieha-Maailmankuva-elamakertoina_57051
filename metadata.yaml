@@ -1,5 +1,5 @@
 _repo: Rooman-mieha-Maailmankuva-elamakertoina_57051
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Pelkonen, Lauri
@@ -9,12 +9,17 @@ contributor:
   - agent_name: Pakarinen, Weikko
     gutenberg_agent_id: '49168'
     url: http://www.gutenberg.org/2009/agents/49168
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Birt, Theodor
     gutenberg_agent_id: '49167'
     url: http://www.gutenberg.org/2009/agents/49167
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57051#Rooman-mieha-Maailmankuva-elamakertoina
 gutenberg_issued: '2018-04-25'
 gutenberg_type: Text
 identifiers:
